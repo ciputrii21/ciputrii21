@@ -23,9 +23,9 @@ Data Analyst & ML Specialist from Manado, Indonesia — exploring how data and m
 
 ### 📊 GitHub Stats
 
-![Shalom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciputrii21&show_icons=true&hide_border=true&bg_color=0a0a14&title_color=ec4899&icon_color=22d3ee&text_color=c4b5fd)
+![Shalom's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ciputrii21&show_icons=true&hide_border=true&bg_color=0a0a14&title_color=ec4899&icon_color=22d3ee&text_color=c4b5fd)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciputrii21&layout=compact&hide_border=true&bg_color=0a0a14&title_color=ec4899&text_color=c4b5fd)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ciputrii21&layout=compact&hide_border=true&bg_color=0a0a14&title_color=ec4899&text_color=c4b5fd)
 
 ---
 
