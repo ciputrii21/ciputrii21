@@ -1,6 +1,6 @@
 # ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:22d3ee&height=180&section=header&text=Shalom%20Putri&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20/%20ML%20Specialist&descAlignY=60&descSize=18)
 
-Data Analyst & ML Specialist from Indonesia — exploring how data and machine learning turn into meaningful insights.
+Data Analyst & Machine Learning enthusiastic from Indonesia exploring how data and machine learning turn into meaningful insights.
 
 🔭 Currently building data & ML projects through hackathons and freelance work
 🌱 Learning: advanced ML, cloud model deployment, and cybersecurity fundamentals
