@@ -5,10 +5,6 @@ Data Analyst & Machine Learning enthusiastic from Indonesia exploring how data a
 🔭 Currently building data & ML projects through hackathons and freelance work
 🌱 Learning: advanced ML, cloud model deployment, and cybersecurity fundamentals
 💬 Ask me about: Python, data analysis, and Streamlit apps
-📫 Reach me: shalomputri21@gmail.com
-🌐 Portfolio: [shalomputri-portfolio.net](https://shalomputri-portfolio.net)
-
----
 
 ### 🛠️ Tools & Tech
 
@@ -26,10 +22,3 @@ Data Analyst & Machine Learning enthusiastic from Indonesia exploring how data a
 ![Shalom's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ciputrii21&show_icons=true&hide_border=true&bg_color=0a0a14&title_color=ec4899&icon_color=22d3ee&text_color=c4b5fd)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ciputrii21&layout=compact&hide_border=true&bg_color=0a0a14&title_color=ec4899&text_color=c4b5fd)
-
----
-
-### 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/shalom-putri-taringanen-400361235)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shalomputrii.m)
